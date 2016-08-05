@@ -1,0 +1,8 @@
+{
+  "dependencies": {},
+  "devDependencies": {},
+  "globalDependencies": {
+    "elm": "registry:dt/elm#0.12.0+20160316155526",
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160602141504"
+  }
+}
